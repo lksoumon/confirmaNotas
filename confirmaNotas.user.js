@@ -7,6 +7,8 @@
 // @match        http://sigeduca.seduc.mt.gov.br/ged/hwmfinalizaperiodoavaliacao.aspx?HWGedLancarAvaliacao.aspx*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=gov.br
 // @grant        none
+// @updateURL    https://github.com/lksoumon/confirmaNotas/raw/refs/heads/main/confirmaNotas.user.js
+// @downloadURL  https://github.com/lksoumon/confirmaNotas/raw/refs/heads/main/confirmaNotas.user.js
 // ==/UserScript==
 var erros = '';
 var carregado = '';
